@@ -1,6 +1,5 @@
 build
-node_module
+node_modules
 .idea
 package-lock.json
-.babelrc
 .yarn.lock
